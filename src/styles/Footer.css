@@ -1,0 +1,12 @@
+.footer {
+  background: #fff;
+  border-top: 1px solid var(--border);
+  padding: 28px 24px;
+  text-align: center;
+}
+
+.footer-bottom {
+  font-size: 15px;
+  color: var(--muted);
+  font-weight: 500;
+}
